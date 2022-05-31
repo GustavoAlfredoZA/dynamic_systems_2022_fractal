@@ -22,11 +22,11 @@ This proyect use Python v. 3.8,
 ## Run
   Create an image called 'fractal.png' and display it in an interactive window
   ```bash
-   $ python ex1.py
+   $ python fractal1.py
   ```
 ### Results
 ![Results](fractal.png)
 
 ## References 
-[Matplotlib](https://matplotlib.org/2.1.2/) Documentation.
-[Dynamic System 2022 course](https://github.com/giccunam/dynamicsystems2022).
+- [Matplotlib](https://matplotlib.org/2.1.2/) Documentation.
+- [Dynamic System 2022 course](https://github.com/giccunam/dynamicsystems2022).
