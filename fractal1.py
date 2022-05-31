@@ -48,7 +48,7 @@ def main():
     y=0.0
     b=0
     l=1.0
-    fractal(4, ax, x, y, b, l)
+    fractal(5, ax, x, y, b, l)
     plt.savefig('fractal.png')
     plt.show()
 
